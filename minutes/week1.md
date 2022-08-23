@@ -10,6 +10,7 @@ To do:
 
   - Create short pres posted on BB. 4-5 slides on ourselves, experience, expertise, project idea, and potential client
   - Slides are due Monday after
+  - *** REVIEW WEEK 1 SLIDES AND REQUIREMENTS ***
   
 For week 4:
   - Create Project Proposal Document via template on Blackboard
