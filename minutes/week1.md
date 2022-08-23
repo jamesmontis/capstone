@@ -2,7 +2,13 @@ Syllabus review
 
 Final presentation day Dec 8 8am-10:30
 
-
+Meeting discussed:
+  - Potential client ideas: 
+    - poker streamer/tumblr like site 
+    - web project for local data
+    - create an analytics tool for a newspaper or professor
+    - longboarding/skateboarding analytics ideas
+    - image recognition
 
 To do:
 
