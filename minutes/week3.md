@@ -16,7 +16,11 @@ To dos:
         - if we build it, will org use it?
         - who, what, where, and when will it be used
         
-        <span style="color:blue"> *review Proposal doc on Blackboard* </span>.
+        @@ 
+        
+        ! review Proposal doc on Blackboard
+        
+        @@
         
         - 3 steps for this phase:
         - analysis strategy
