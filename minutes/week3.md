@@ -30,12 +30,8 @@ To dos:
         - requirement gathering
         - Output: Proposal
         
-    
-  - Presentations week 5: Sep 20-22 ( discuss parts for presenting order )
 
 Upcoming:
 
- <h2
-
-Proposal due week 4 on Thursday Sept 15
-</h2>
+  - Presentations week 5: Sep 20-22 ( discuss parts for presenting next week )
+  - Proposal turn in next week (15th-16th)
