@@ -29,6 +29,6 @@ To dos:
 
 Upcoming:
 
- <h2 Proposal due week 4 on Friday Sept 16 </h2>
+ <h2  </h2>
 
-Test
+Proposal due week 4 on Friday Sept 16
