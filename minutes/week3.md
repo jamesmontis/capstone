@@ -16,7 +16,7 @@ To dos:
         - if we build it, will org use it?
         - who, what, where, and when will it be used
         
-        **review Proposal doc on BB**
+        <span style="color: red;">review Proposal doc on BB</span>
         
         - 3 steps for this phase:
         - analysis strategy
@@ -29,6 +29,6 @@ To dos:
 
 Upcoming:
 
- <h2  </h2>
+ <h2>  </h2>
 
 Proposal due week 4 on Friday Sept 16
