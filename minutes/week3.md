@@ -30,6 +30,7 @@ To dos:
 
 Upcoming:
 
- <h2>  </h2>
+ <h2
 
-Proposal due week 4 on Friday Sept 16
+Proposal due week 4 on Thursday Sept 15
+</h2>
