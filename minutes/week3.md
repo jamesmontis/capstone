@@ -17,7 +17,7 @@ To dos:
         - who, what, where, and when will it be used
         ```
         
-        <span style="color:orange">Review Minutes doc and Proposal doc on Blackboard</span>.
+        Review Minutes doc and Proposal doc on Blackboard
         ```
         
         - 3 steps for this phase:
