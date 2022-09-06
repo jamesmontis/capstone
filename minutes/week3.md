@@ -16,7 +16,6 @@ To dos:
         - if we build it, will org use it?
         - who, what, where, and when will it be used
         ```
-        
         Review Minutes doc and Proposal doc on Blackboard
         ```
         
