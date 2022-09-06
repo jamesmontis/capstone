@@ -16,9 +16,8 @@ To dos:
         - if we build it, will org use it?
         - who, what, where, and when will it be used
         ```
-        @@
-        ! asdf
-        @@
+        
+        <span style="color:orange">Review Minutes doc and Proposal doc on Blackboard</span>.
         ```
         
         - 3 steps for this phase:
