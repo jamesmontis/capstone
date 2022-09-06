@@ -15,12 +15,11 @@ To dos:
         - Technical feasibility 
         - if we build it, will org use it?
         - who, what, where, and when will it be used
-        
-        @@ 
-        
-        ! review Proposal doc on Blackboard
-        
+        ```
         @@
+        ! asdf
+        @@
+        ```
         
         - 3 steps for this phase:
         - analysis strategy
