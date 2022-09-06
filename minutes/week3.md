@@ -8,6 +8,12 @@ Lecture: Confidentiality, competence, IP rights, and computer misuse
 
 To dos: 
 
+  - For Proposal to-dos parts by Thursday Sep 15th:
+
+    James: Team Members, Prior Art, Lifecycle, Software
+    Julian: Abstract, Proposed Solutions, Client contact, Acknowledgement
+    Sabastion: User needs, Deliverables, Hardware
+
   - Talk to Dr. Kar
     - questions to answer and to include in Proposal:
         - Why build this?
@@ -24,9 +30,8 @@ To dos:
         - requirement gathering
         - Output: Proposal
         
-        
-        
-  - Thursday week 3: Discuss design time, documentation, UML, w/e
+    
+  - Presentations week 5: Sep 20-22 ( discuss parts for presenting order )
 
 Upcoming:
 
