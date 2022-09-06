@@ -8,11 +8,11 @@ Lecture: Confidentiality, competence, IP rights, and computer misuse
 
 To dos: 
 
-  - For Proposal to-dos parts by Thursday Sep 15th:
+  - For Proposal to-dos parts by Thursday Sep 15th (we'll compile proposal parts and edit on 16th):
 
-    James: Team Members, Prior Art, Lifecycle, Software
-    Julian: Abstract, Proposed Solutions, Client contact, Acknowledgement
-    Sabastion: User needs, Deliverables, Hardware
+    - James: Team Members, Prior Art, Lifecycle, Software
+    - Julian: Abstract, Proposed Solutions, Client contact, Acknowledgement
+    - Sabastion: User needs, Deliverables, Hardware
 
   - Talk to Dr. Kar
     - questions to answer and to include in Proposal:
