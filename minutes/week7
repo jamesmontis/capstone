@@ -1,0 +1,17 @@
+Progress:
+- MySQL/nodeJS is the easiest way to get a db going.  Need to download MySQL and Node.js
+https://www.w3schools.com/nodejs/nodejs_mysql_insert.asp is a sample way we can get a db going
+
+next step would be make some html forms that do CRUD behavior (create,read,update,delete) in this node db.
+
+[ ] Project schedule due today Oct 4
+[ ] SRS due next week Oct 13th 
+[ ] Assign SRS sections: who doing which by Thursday
+[ ] Compile SRS Monday/Tuesday 12th/13th
+
+Ongoing:
+[ ] need client feedback for Oct 11 discussion, when to talk to Kar?
+
+for Paper: due 2 weeks
+
+[ ] Look at Oct 4 powerpoint on how to write the sections of the paper.  Dr. Yadav is very specific about each section.
